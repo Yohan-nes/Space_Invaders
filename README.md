@@ -10,7 +10,7 @@ Tested on both Windows 10 and Windows 11.
 
 
 <p align="center">
-🎥 <a href="https://www.youtube.com/watch?v=TGo3Oxdpr5o&t=76s">Video Tutorial on YouTube</a>
+ <a href="https://www.youtube.com/watch?v=TGo3Oxdpr5o&t=76s">Followed this tutorial on youtube</a>
 </p>
 
 
